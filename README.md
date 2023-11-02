@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Nathanael Siew 👋
+
+- 🔭 I’m currently working on [EduHopeSG Tutoring Management System](https://github.com/potatomans/tutoring-management) and [Restaurant Picker](https://restaurant-picker.onrender.com/).
+- 🌱 I’m currently learning Tensorflow & LLMs.
+- 👯 I’m open to collaborating on full-stack web development projects!
+- 📫 You can reach me at nathanaelsiewks@gmail.com
+
+### Skills
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40" />
+</div>
 
 <!--
 **potatomans/potatomans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
