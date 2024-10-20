@@ -1,5 +1,5 @@
 ### Hi there, I'm Nathanael Siew 👋
-I'm a full-stack developer passionate about building applications with social impact. Also happen to be a David Malan fan.
+I'm a full-stack developer passionate about building applications with social impact.
 - 🔭 I’m currently working on [EduHopeSG Tutoring Management System](https://github.com/potatomans/tutoring-management) and [Restaurant Picker](https://restaurant-picker.onrender.com/).
 - 🌱 I’m currently learning Tensorflow & LLMs.
 - 👯 I’m open to collaborating on full-stack web development projects!
